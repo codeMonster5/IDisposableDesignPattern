@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDisposableDesignPattern", "IDisposableDesignPattern\IDisposableDesignPattern.csproj", "{8C7A2F6E-124B-4EB0-94D9-71020CE720EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C7A2F6E-124B-4EB0-94D9-71020CE720EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7A2F6E-124B-4EB0-94D9-71020CE720EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7A2F6E-124B-4EB0-94D9-71020CE720EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7A2F6E-124B-4EB0-94D9-71020CE720EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D529FB71-FEF4-4AA0-828B-665B4E34E72C}
+	EndGlobalSection
+EndGlobal
